@@ -335,6 +335,7 @@
 
 	#details{
 		display: flex;
+		margin: 0px;
 		flex-direction: row;
 	}
 	#communities-icon, #messages-icon{
