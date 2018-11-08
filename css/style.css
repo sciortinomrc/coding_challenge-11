@@ -34,7 +34,7 @@ h1{
 
 }
 section div div, p{
-	width: 50%
+	width: 75%
 }
 section,  #details div, section div div, #third-button{
 	flex-direction: column;
@@ -44,7 +44,7 @@ section, section div div{
 	align-items: center;
 }
 section div div{
-	text-align: left;
+	text-align: center;
 }
 #details, #details div,#footer div{
 	margin: 0px;
