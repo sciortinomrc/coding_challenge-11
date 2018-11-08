@@ -30,8 +30,10 @@ div{
 h1{
 	font-family: Poppins;
 	font-weight: 700;
+	width: auto;
+
 }
-section div div h1, p{
+section div div, p{
 	width: 50%
 }
 section,  #details div, section div div, #third-button{
